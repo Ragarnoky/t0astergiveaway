@@ -20,3 +20,8 @@ body {
   border-radius: 8px;
   font-size:6px;
 }
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
