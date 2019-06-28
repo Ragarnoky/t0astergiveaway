@@ -1,9 +1,10 @@
-# testtoaster
-A test of GitHub Pages 
+# Toaster Giveaway Enterance Portal
 
 Free toaster giveaway, wanna join?
-This is just a test of GitHub Pages.
-Nothing special.*
+It's easy to join! 
+Go to the website for instructions and join.
 
 *my free toaster giveaway is special, and if you disrespect it you must perish and be exterminated from these premises.
-do not disrespect the toaster.
+do not disrespect the toaster or ur nan gets it grrrrrrr 
+
+{This used to be a test of GitHub Pages}
