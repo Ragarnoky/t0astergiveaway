@@ -6,7 +6,7 @@ It's an easy process!
 All you have to do is go to the website and follow the steps and enter!
 
 ---------------------------------------------------------------------------------------
-Domains: http://t0astergiveaway.1337.cx, https://xakriyz.github.io/toastergiveaway
+Domains: https://apicgemer420.github.io/toastergiveaway, expected http://t0astergiveaway.ml
 \
 Special thanks to: Epic Gamers Department of the Toaster Foundation, Salman Mamu, my epic friend Eila, and Toasterman
 \
