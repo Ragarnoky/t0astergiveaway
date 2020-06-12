@@ -13,6 +13,7 @@ Special thanks to: Epic Gamers Department of the Toaster Foundation, Salman Mamu
 \
 Funded by the Toaster Foundation of Memeland
 
+notice: repo moved to VcXZakriya/zakriya.xyz
 
 
 
