@@ -11,24 +11,4 @@ Domain: https://vcxzakriya.github.io/t0astergiveaway
 \
 Special thanks to: Epic Gamers Department of the Toaster Foundation, Salman Mamu, my epic friend Eila, and Toasterman
 \
-Funded by the Toaster Foundation of Memeland
-
-notice: repo moved to VcXZakriya/zakriya.xyz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-haha epic
+Funded by the Toaster Foundation of Funeica
