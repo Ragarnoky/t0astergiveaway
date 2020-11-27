@@ -9,6 +9,6 @@ I lied, I won the toaster.
 ---------------------------------------------------------------------------------------
 Domain: https://ragarnoky.github.io/t0astergiveaway
 \
-Special thanks to: Epic Gamers Department of the Toaster Foundation, Salman Mamu, my epic friend Eila, and Toasterman
+Special thanks to: my uncle, my friend Eila, and the Funeica Foundation of Toasters
 \
 Funded by the Toaster Foundation of Funeica
