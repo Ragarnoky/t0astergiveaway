@@ -5,9 +5,9 @@ It's an easy process!
 \
 All you have to do is go to the website and follow the steps and enter!
 \
-Yeah dude this is dead. The person who won the toaster was me.
+I lied, I won the toaster.
 ---------------------------------------------------------------------------------------
-Domain: https://vcxzakriya.github.io/t0astergiveaway
+Domain: https://ragarnoky.github.io/t0astergiveaway
 \
 Special thanks to: Epic Gamers Department of the Toaster Foundation, Salman Mamu, my epic friend Eila, and Toasterman
 \
