@@ -11,4 +11,4 @@ Domain: https://ragarnoky.github.io/t0astergiveaway
 \
 Special thanks to: my uncle, my friend Eila, and the Funeica Foundation of Toasters
 \
-Funded by the Toaster Foundation of Funeica
+Funded by the Funeica Foundation of Toasters
